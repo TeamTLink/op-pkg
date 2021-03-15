@@ -1,5 +1,6 @@
 {
     "ja" : {
+        "name" : "ja",
         "version" : 0.1,
         "author" : "teamtlink",
         "sources" : "https://teamtlink.github.io/op-pkg/0.1/ja/ja.zip",
